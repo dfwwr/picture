@@ -398,5 +398,3 @@ int main()
     outF.write(reinterpret_cast<char*>(p), tot);
     return 0;
 }
-/*按道理，只剩Huffman编码和文件头了。
-另外配置github*/
